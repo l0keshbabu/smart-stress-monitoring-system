@@ -61,7 +61,7 @@ EMG and GSR Sensors
 │
 ├── project_report.pdf
 └── README.md 
-
+```
 ---
 
 ## Arduino Implementation
