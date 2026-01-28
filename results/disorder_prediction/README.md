@@ -52,7 +52,6 @@ misclassification across all health conditions.
 The confusion matrix below visualizes the classification performance of
 the model, showing how well it differentiates between health conditions.
 
-![Confusion Matrix](result_images/confusion_matrix.png)
 
 ---
 
@@ -63,7 +62,6 @@ individual data samples. The color-coded visualization highlights
 correct classifications and confirms the consistency of the model’s
 predictions.
 
-![Actual vs Predicted Classification](result_images/actual_vs_predicted_classification.png)
 
 ---
 
