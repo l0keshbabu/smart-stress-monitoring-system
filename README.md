@@ -60,7 +60,7 @@ EMG and GSR Sensors
 │   └── disorder_prediction/
 │
 ├── project_report.pdf
-└── README.md ```
+└── README.md 
 
 ---
 
